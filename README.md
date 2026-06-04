@@ -1,14 +1,3 @@
----
-title: Wind Turbine Monitor
-emoji: 🌬️
-colorFrom: blue
-colorTo: green
-sdk: streamlit
-sdk_version: 1.28.0
-app_file: app.py
-pinned: false
----
-
 # 🌬️ Wind Turbine AI Monitoring System
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
