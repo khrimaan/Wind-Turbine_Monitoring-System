@@ -1,0 +1,14 @@
+Wind Speed (m/s)
+Wind Direction (°)
+Theoretical_Power_Curve (KWh)
+hour_sin
+hour_cos
+month_sin
+month_cos
+is_weekend
+power_efficiency
+wind_power_density
+power_lag_1
+power_lag_6
+wind_speed_lag_1
+day_of_week
